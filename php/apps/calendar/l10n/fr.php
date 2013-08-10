@@ -209,7 +209,7 @@
 "URLs" => "URLs",
 "Calendar CalDAV syncing addresses" => "Adresses de synchronisation des calendriers CalDAV",
 "more info" => "plus d'infos",
-"Primary address (Kontact et al)" => "Adresses principales (Kontact et assimilés)",
+"Primary address (Kontact et al)" => "Adresses principales (contacts et assimilés)",
 "iOS/OS X" => "iOS/OS X",
 "Read only iCalendar link(s)" => "lien(s) iCalendar en lecture seule"
 );
